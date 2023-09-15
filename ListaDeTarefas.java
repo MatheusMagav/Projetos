@@ -6,7 +6,8 @@ package javaapplication19;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+public class
+    
 public class ListaDeTarefas {
     private final ArrayList<String> tarefas;
 
